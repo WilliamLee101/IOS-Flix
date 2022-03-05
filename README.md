@@ -16,12 +16,14 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-<img src=http://g.recordit.co/RLffUMf6fl.gif><br>
-<img src=http://g.recordit.co/HhvvRX2jkz.gif><br>
+<img src=http://g.recordit.co/RLffUMf6fl.gif width=250><br>
+<img src=http://g.recordit.co/HhvvRX2jkz.gif width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
+
 Adjusting the layout of the movie grid.
+
 =======
 📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
 >>>>>>> 528f3a9 (Flix - part 2)
@@ -54,5 +56,7 @@ Adjusting the layout of the movie grid.
 
 ### Notes
 Describe any challenges encountered while building the app.
+
 Taking time to become used to Swift.
+
 =======
