@@ -69,5 +69,17 @@ class MovieGridViewController: UIViewController, UICollectionViewDelegate, UICol
         
         return cell
     }
+    
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        // find the selected movie
+        let grid = sender as! UICollectionViewCell
+        let indexPath = collectionView.indexPath(for: grid)!
+        let movie = movies[indexPath.row]
+        
+        // pass the selected movie to the superhero details view controlller
+        let detailsViewController = segue.destination as!  SuperheroDetailsViewController
+        detailsViewController.movie = movie
+    }
+    
 
 }
