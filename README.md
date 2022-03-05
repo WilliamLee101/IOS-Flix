@@ -16,8 +16,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-
 <img src=http://g.recordit.co/RLffUMf6fl.gif><br>
 <img src=http://g.recordit.co/HhvvRX2jkz.gif><br>
 
@@ -33,7 +31,6 @@ Adjusting the layout of the movie grid.
 ## Flix Part 1
 
 ### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after checking off completed user stories)
 
 #### REQUIRED (10pts)
 <<<<<<< HEAD
@@ -46,16 +43,11 @@ Adjusting the layout of the movie grid.
 - [x] (1pt) Run your app on a real device.
 =======
 
-#### BONUS
-- [ ] (2pt) User can view the app on various device sizes and orientations.
-- [ ] (1pt) Run your app on a real device.
->>>>>>> 528f3a9 (Flix - part 2)
-
 ### App Walkthrough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
 <img src="http://g.recordit.co/opLyPiuEHq.gif" width=250><br>
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/71872314/155844762-d46eb9a2-26f7-4dbf-95cb-6c5d8a26374e.gif)
+<img src="https://user-images.githubusercontent.com/71872314/155844762-d46eb9a2-26f7-4dbf-95cb-6c5d8a26374e.gif" width=250><br>
 <<<<<<< HEAD
 
 
@@ -64,7 +56,3 @@ Adjusting the layout of the movie grid.
 Describe any challenges encountered while building the app.
 Taking time to become used to Swift.
 =======
-
-### Notes
-Describe any challenges encountered while building the app.
->>>>>>> 528f3a9 (Flix - part 2)
