@@ -45,9 +45,6 @@ Adjusting the layout of the movie grid.
 - [ ] (2pt) User can view the app on various device sizes and orientations.
 - [x] (1pt) Run your app on a real device.
 =======
-- [ ] (2pts) User sees an app icon on the home screen and a styled launch screen.
-- [ ] (5pts) User can view and scroll through a list of movies now playing in theaters.
-- [ ] (3pts) User can view the movie poster image for each movie.
 
 #### BONUS
 - [ ] (2pt) User can view the app on various device sizes and orientations.
@@ -58,8 +55,9 @@ Adjusting the layout of the movie grid.
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
 <img src="http://g.recordit.co/opLyPiuEHq.gif" width=250><br>
-<<<<<<< HEAD
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/71872314/155844762-d46eb9a2-26f7-4dbf-95cb-6c5d8a26374e.gif)
+<<<<<<< HEAD
+
 
 
 ### Notes
