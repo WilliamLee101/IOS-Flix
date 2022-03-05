@@ -66,4 +66,18 @@ class MoviesViewController: UIViewController, UITableViewDelegate, UITableViewDa
         cell.posterView.af_setImage(withURL: posterUrl!)
         return cell
     }
+    
+    // preparation before navigation
+    override func prepare(for segue:UIStoryboardSegue, sender: Any?){
+        // find the selected movie
+        let cell = sender as! UITableViewCell
+        let indexPath = tableView.indexPath(for: cell)!
+        let movie = movies[indexPath.row]
+        
+        // pass the selected movie to the detail movie view controller
+        let detailsViewController = segue.destination as! MovieDetailsViewController
+        detailsViewController.movie = movie
+        
+        tableView.deselectRow(at: indexPath, animated: true)
+    }
 }
